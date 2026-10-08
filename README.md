@@ -2,7 +2,7 @@
 
 > Réseau social de concerts et festivals : découvrir des événements, voir lesquels de ses amis y vont, partager photos et avis.
 
-**Équipe** : _Prénom 1_, _Prénom 2_, _Prénom 3_
+**Équipe** : Arthur, Martin, Baptiste
 **Cours** : NoSQL / architecture orientée services
 
 > ⚠️ Tous les JSON ci-dessous sont des **exemples de travail**. Ils seront ajustés au fil du projet.
@@ -313,5 +313,4 @@ Pour les événements passés, on remplace `$gte` par `$lt`.
 
 ## Dépôt Git
 
-- Dépôt : `onyva-concerts` _(à créer)_
-- Invitation : utilisateur `charroux` _(à ajouter)_
+- Dépôt : `onyva-concerts` https://github.com/martmartin1103-cyber/Projet_NoSQL_ABM_EFREI
